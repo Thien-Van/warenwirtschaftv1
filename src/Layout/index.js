@@ -1,10 +1,14 @@
 import React from "react";
+import { Route, Switch } from "react-router-dom";
+
+import Shop from "../shop/Shop";
 
 function Layout() {
   return (
-    <div className="container">
-      <div className="container">
-        <h1>Warenwirtschaft</h1>
+    <div>
+      <h1>Warenwirtschaft</h1>
+      <div>
+        <Shop />
       </div>
     </div>
   );
