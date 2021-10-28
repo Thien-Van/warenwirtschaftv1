@@ -1,7 +1,10 @@
 {
     "shelf1": {
-        "apple": "1",
-        "pear": "2",
-        "tomato": "5"
+        "lvl": "1",
+        "contents": {
+            "apple": "1",
+            "pear": "2",
+            "tomato": "5"
+        }  
     }
 }
