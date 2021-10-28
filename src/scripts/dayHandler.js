@@ -1,8 +1,5 @@
 import React from "react";
 
-const day = {
-  minCustomers: 8,
-  maxCustomers: 20,
-};
+const storeData = require("../data/store-data.json");
 
 function dayHandler(day) {}
