@@ -1,10 +1,22 @@
 {
-    "shelf1": {
+    "shelveAmount":"2",
+    "shelves": {
+        "shelf1": {
         "lvl": "1",
         "contents": {
-            "apple": "1",
-            "pear": "2",
-            "tomato": "5"
-        }  
+            "badabing": "1",
+            "badabum": "2",
+            "ratzeputz": "5"
+            }  
+        },
+        "shelf2": {
+        "lvl": "1",
+        "contents": {
+            "abababa": "1",
+            "hodl": "2",
+            "prrr": "5"
+            }  
+        }
     }
+    
 }
